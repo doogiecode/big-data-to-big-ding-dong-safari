@@ -5,8 +5,9 @@ Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panic
 
 ## Installing
 
-Download [big-data-to-big-ding-dong-safari.safariextz.zip](https://github.com/doogiedoogie/big-data-to-big-ding-dong-safari/blob/master/big-data-to-big-ding-dong-safari.safariextz.zip?raw=true)
-
+1. Download [BigDataToBigDingDong.safariextz.zip](https://github.com/doogiedoogie/big-data-to-big-ding-dong-safari/blob/master/BigDataToBigDingDong.safariextz.zip?raw=true).
+2. Unzip, double-click, install.
+3. Combine with [cloud-to-butt-safari](https://github.com/logancollins/cloud-to-butt-safari), and [take it for a spin](http://www.google.com/search?q=big%20data%20in%20the%20cloud&ie=utf-8&oe=utf-8).
 
 ## Building
 
