@@ -1,16 +1,13 @@
-# big-data-to-big-ding-dong-safari
+# Big Data -> Big Ding Dong (Safari)
 
-Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension and Logan Collins' [cloud-to-butt-safari](https://github.com/logancollins/cloud-to-butt-safari) extension.
+The phrase big data has been twisted, warped, and coaxed into meaning almost anything. What's one more loaded meaning?
 
+This Safari extension replaces occurrences of 'big data' on web pages with 'big ding dong'.
+
+Derived from Logan Collins' [cloud-to-butt-safari](https://github.com/logancollins/cloud-to-butt-safari) Safari extension, which is derived from Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
 
 ## Installing
 
 1. Download [BigDataToBigDingDong.safariextz.zip](https://github.com/doogiedoogie/big-data-to-big-ding-dong-safari/blob/master/BigDataToBigDingDong.safariextz.zip?raw=true).
 2. Unzip, double-click, install.
-3. Combine with [cloud-to-butt-safari](https://github.com/logancollins/cloud-to-butt-safari), and [take it for a spin](http://www.google.com/search?q=big%20data%20in%20the%20cloud&ie=utf-8&oe=utf-8).
-
-## Building
-
-1. Download the code, open Safari, enable Developer mode.
-2. Choose Show Extension Builder from the Develop menu.
-3. Choose Add Extension... from the plus button.
+3. Combine with [cloud-to-butt-safari](https://github.com/logancollins/cloud-to-butt-safari), and [take it for a spin](https://www.google.com/search?q=big%20data%20in%20the%20cloud).
